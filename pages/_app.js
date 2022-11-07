@@ -10,7 +10,7 @@ export default function Nextra({ Component, pageProps }) {
         <link
           rel="alternate"
           type="application/rss+xml"
-          title="RSS"
+          title="Brandon Meyer"
           href="/feed.xml"
         />
         <link
